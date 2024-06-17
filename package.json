@@ -21,12 +21,11 @@
   "license": "GPL-2.0-or-later",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@wordpress/env": "^4.1.0",
+    "@wordpress/env": "^10.1.0",
     "chalk": "^4.1.0",
     "commander": "^6.2.0",
     "execa": "^4.1.0",
     "fs-extra": "^9.0.1",
     "ora": "^5.1.0"
-  },
-  "devDependencies": {}
+  }
 }
